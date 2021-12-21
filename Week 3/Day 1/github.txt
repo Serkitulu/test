@@ -1,0 +1,13 @@
+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
+
+serki@LAPTOP-58V778BD MINGW64 /
+$ config --global version
+bash: config: command not found
+
+serki@LAPTOP-58V778BD MINGW64 /
+$  git config --global user.name "Serki Tulu"
+
+serki@LAPTOP-58V778BD MINGW64 /
+$ git config --global user.email serkitulu.live@gmail.com
+
+serki@LAPTOP-58V778BD MINGW64 /
